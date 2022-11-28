@@ -19,7 +19,7 @@ public :
 void myOtherFuncition()
 {
     cout << "Some content in another class."<<endl << endl;
-}
+}   
 };
 //Derived class
 class Mychildclass :public Myclass, public Myotherclass{
